@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
 
+{{-- this is 404 template  --}}
+
 <head>
     <!-- meta tags -->
     <meta charset="utf-8">
